@@ -1,0 +1,289 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.16f1 (d2c21f0ef2f1) revision 13812255'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'tr' Physical Memory: 32454 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/fatih_o5pu0lo/Desktop/Uretken_Akademi_Unity/Unity-Egitim1/My project
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+53177
+Successfully changed project path to: C:/Users/fatih_o5pu0lo/Desktop/Uretken_Akademi_Unity/Unity-Egitim1/My project
+C:/Users/fatih_o5pu0lo/Desktop/Uretken_Akademi_Unity/Unity-Egitim1/My project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4020] Host "[IP] 192.168.1.50 [Port] 0 [Flags] 2 [Guid] 1290474360 [EditorId] 1290474360 [Version] 1048832 [Id] WindowsEditor(7,Fatih) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [4020] Host "[IP] 192.168.1.50 [Port] 0 [Flags] 2 [Guid] 1290474360 [EditorId] 1290474360 [Version] 1048832 [Id] WindowsEditor(7,Fatih) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 19 workers.
+Refreshing native plugins compatible for Editor in 4.22 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/fatih_o5pu0lo/Desktop/Uretken_Akademi_Unity/Unity-Egitim1/My project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28a0)
+    Vendor:   NVIDIA
+    VRAM:     7971 MB
+    Driver:   31.0.15.2758
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56932
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004882 seconds.
+- Loaded All Assemblies, in  0.235 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 183 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.408 seconds
+Domain Reload Profiling: 642ms
+	BeginReloadAssembly (69ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (97ms)
+		LoadAssemblies (67ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (95ms)
+			TypeCache.Refresh (94ms)
+				TypeCache.ScanAssembly (84ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (409ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (369ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (259ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (75ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.407 seconds
+Refreshing native plugins compatible for Editor in 1.51 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.384 seconds
+Domain Reload Profiling: 790ms
+	BeginReloadAssembly (95ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (14ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (255ms)
+		LoadAssemblies (192ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (118ms)
+			TypeCache.Refresh (104ms)
+				TypeCache.ScanAssembly (93ms)
+			ScanForSourceGeneratedMonoScriptInfo (10ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (384ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (284ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (39ms)
+			ProcessInitializeOnLoadAttributes (209ms)
+			ProcessInitializeOnLoadMethodAttributes (13ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3085 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 32 unused Assets / (58.5 KB). Loaded Objects now: 3550.
+Memory consumption went from 132.1 MB to 132.1 MB.
+Total: 3.571600 ms (FindLiveObjects: 0.208500 ms CreateObjectMapping: 0.129000 ms MarkObjects: 3.104700 ms  DeleteObjects: 0.128100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 72221.682266 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Walls/Doorways/Doorway Parent 002.prefab
+  artifactKey: Guid(3cd6ed25643f3c74e933d51b249d62ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Walls/Doorways/Doorway Parent 002.prefab using Guid(3cd6ed25643f3c74e933d51b249d62ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '690531d5e2cf880408788eff52820fd4') in 0.118243 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Walls/Doorways/Doorway Parent 006.prefab
+  artifactKey: Guid(3788c5a437c484f4e8587709bf31cf85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Walls/Doorways/Doorway Parent 006.prefab using Guid(3788c5a437c484f4e8587709bf31cf85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '048bfc4517f17ede17302285ab656786') in 0.051616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 36
+========================================================================
+Received Import Request.
+  Time since last request: 1.224546 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Walls/Walls/Wall Parent 002.prefab
+  artifactKey: Guid(cafb3b4966c8c144ebc1342e811a77e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Walls/Walls/Wall Parent 002.prefab using Guid(cafb3b4966c8c144ebc1342e811a77e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67608859bf229137d032da4a7f714e88') in 0.021985 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 23
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Walls/Walls/Wall Parent 004.prefab
+  artifactKey: Guid(de072453d6abd9945b9827c2c3b809b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Walls/Walls/Wall Parent 004.prefab using Guid(de072453d6abd9945b9827c2c3b809b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c9704a06d37e6c3f37fa4fd702e0625') in 0.020205 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 22
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Walls/Walls/Wall Parent 006.prefab
+  artifactKey: Guid(8790f5475dc7010429a4b86b6dae403f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Walls/Walls/Wall Parent 006.prefab using Guid(8790f5475dc7010429a4b86b6dae403f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '050655a228f520a366aadc75ac88db9b') in 0.022134 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 24
+========================================================================
+Received Import Request.
+  Time since last request: 4765.967854 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Light Sources/Candle Parent 001.prefab
+  artifactKey: Guid(46ba410235699e54ea5e836af9e36c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Light Sources/Candle Parent 001.prefab using Guid(46ba410235699e54ea5e836af9e36c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e043c6780868096aa4af7c0cf92af17') in 0.143976 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 495
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Light Sources/Lava Grate Parent 001.prefab
+  artifactKey: Guid(4e4108b8244889646b6ea581c4a3f716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Light Sources/Lava Grate Parent 001.prefab using Guid(4e4108b8244889646b6ea581c4a3f716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc4a440d8fa9c04ed0b28f28c09648e8') in 0.137128 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 31
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Light Sources/Water Grate Parent 001.prefab
+  artifactKey: Guid(c23e31fa1d2ac1c4b808105671ec82dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Light Sources/Water Grate Parent 001.prefab using Guid(c23e31fa1d2ac1c4b808105671ec82dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e18d7316472a413e07b945caf02be70f') in 0.028351 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 31
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Light Sources/Torch Parent 001.prefab
+  artifactKey: Guid(99a8578a2180fe04b894fa6decac87ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Light Sources/Torch Parent 001.prefab using Guid(99a8578a2180fe04b894fa6decac87ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ac069868cd2fc5c1e5bb444c547597f') in 0.025689 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 454
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Light Sources/Stone Chalice Parent 001.prefab
+  artifactKey: Guid(51d11766decae9140a012d7c173844a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Light Sources/Stone Chalice Parent 001.prefab using Guid(51d11766decae9140a012d7c173844a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '038b3de50880a3d5ba51df6baf4d1a85') in 0.023247 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 448
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Light Sources/Stone Chalice Parent 002.prefab
+  artifactKey: Guid(2477f1925337568479938d135074d127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Light Sources/Stone Chalice Parent 002.prefab using Guid(2477f1925337568479938d135074d127) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c55103c26e730d8bed9246c8aac79c07') in 0.025161 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 41
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Simple Modular Dungeon/Prefabs/Light Sources/Torch Parent 002.prefab
+  artifactKey: Guid(ccbfdc64594325c4ebfb2ccd9a074f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple Modular Dungeon/Prefabs/Light Sources/Torch Parent 002.prefab using Guid(ccbfdc64594325c4ebfb2ccd9a074f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7cd540abb29d0571b2d6087db59941') in 0.028551 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 67
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: Bir iþ parçacýðý çýkýþý veya bir uygulama isteði nedeniyle G/Ç iþlemi iptal edildi.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
